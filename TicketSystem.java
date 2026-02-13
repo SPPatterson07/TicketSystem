@@ -1,4 +1,3 @@
-package coolio.ticketsystem;
 import java.util.Scanner;
 
 /**
